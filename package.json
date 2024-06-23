@@ -1,5 +1,5 @@
 {
-    "description": "topu-sessions",
+    "description": "mwtu-sessions",
     "main": "./toputech.js",
   "engines" : { 
     "npm" : ">=9.7.2",

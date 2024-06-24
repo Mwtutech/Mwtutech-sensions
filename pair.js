@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
                let FLASH_MD_TEXT = `
-*𝕰𝖊𝖊𝖞... Mwtu 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
-*Wow you choosen Mwtu-MD complete the deployment and enyoy the speed*
+*𝕰𝖊𝖊𝖞....mwtu 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
+*Wow you choosen mwtu-md complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
 ║『 Mwtu Md IS READY TO DEPLOY』
@@ -73,7 +73,6 @@ ____________________________________
 ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Mwtutech/Mwtu-md_
 
 ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F_
-
 ║ 
 ╚════════════════════╝ 
  *©MWTU TECH*

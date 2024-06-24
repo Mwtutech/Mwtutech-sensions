@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 *Wow you choosen Mwtu-MD complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
-║『 *Mwtu Md IS READY TO DEPLOY』
+║『 Mwtu Md IS READY TO DEPLOY』
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
@@ -73,6 +73,7 @@ ____________________________________
 ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Mwtutech/Mwtu-md_
 
 ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F_
+
 ║ 
 ╚════════════════════╝ 
  *©MWTU TECH*

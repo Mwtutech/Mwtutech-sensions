@@ -1,12 +1,12 @@
 {
     "description": "mwtu-sessions",
-    "main": "./toputech.js",
+    "main": "./Mwtutech.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node toputech.js"
+    "start": "node Mwtutech.js"
   },
   "author": "Topu Tech",
   "license": "GPL-3.0 license",
